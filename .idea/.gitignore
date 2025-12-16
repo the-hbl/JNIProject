@@ -1,3 +1,20 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+.idea/
+# 可选：补充 Android 项目通用忽略规则（避免冗余文件提交）
+# 构建输出目录
+build/
+app/build/
+# Gradle 缓存
+.gradle/
+# 本地属性文件（含 SDK 路径等）
+local.properties
+# 临时文件
+*.iml
+out/
+cmake-build-*/
+# 日志/临时文件
+*.log
+*.tmp
